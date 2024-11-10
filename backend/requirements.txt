@@ -1,0 +1,6 @@
+Flask
+python-dotenv
+flask-cors
+requests
+g4f
+beautifulsoup4

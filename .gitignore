@@ -1,0 +1,6 @@
+backend/env
+frontend-app/node_modules
+*__pycache__*
+*ENV_DIR*
+*.env*
+backend/.env
